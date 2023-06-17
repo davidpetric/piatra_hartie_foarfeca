@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:piatra_hartie_foarfece/src/routes/routes.dart';
+import 'package:piatra_hartie_foarfeca/src/routes/routes.dart';
 
 void main() {
   runApp(const PiatraHartieFoarfeca());

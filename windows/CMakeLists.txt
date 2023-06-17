@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(piatra_hartie_foarfece LANGUAGES CXX)
+project(piatra_hartie_foarfeca LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "piatra_hartie_foarfece")
+set(BINARY_NAME "piatra_hartie_foarfeca")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

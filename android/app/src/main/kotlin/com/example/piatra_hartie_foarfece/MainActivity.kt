@@ -1,4 +1,4 @@
-package com.example.piatra_hartie_foarfece
+package com.example.piatra_hartie_foarfeca
 
 import io.flutter.embedding.android.FlutterActivity
 

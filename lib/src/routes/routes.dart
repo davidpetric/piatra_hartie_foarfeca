@@ -1,8 +1,9 @@
 import 'package:go_router/go_router.dart';
-import 'package:piatra_hartie_foarfece/src/pages/gamePage.dart';
-import 'package:piatra_hartie_foarfece/src/pages/playPage.dart';
-import '../pages/hostPage.dart';
-import '../pages/startPage.dart';
+
+import '../pages/game_page.dart';
+import '../pages/host_page.dart';
+import '../pages/play_page.dart';
+import '../pages/start_page.dart';
 
 final class Routes {
   static const String Start = '/start';

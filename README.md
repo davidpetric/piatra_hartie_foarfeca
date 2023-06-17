@@ -1,4 +1,4 @@
-# piatra_hartie_foarfece
+# piatra_hartie_foarfeca
 
 A new Flutter project.
 
