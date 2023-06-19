@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "name": "dart-apply-fixes",
+      "command": "bash",
+      "args": ["-c", "dart fix --apply app"],
+      "windows": {
+        "command": "cmd",
+        "args": ["/c", "dart fix --apply app"]
+      }
+    }
+  ]
+}
